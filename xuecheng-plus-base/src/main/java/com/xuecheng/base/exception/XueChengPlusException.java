@@ -28,6 +28,7 @@ public class XueChengPlusException extends RuntimeException {
     }
 
     public static void cast(String message){
+
         throw new XueChengPlusException(message);
     }
     public static void cast(CommonError error){
