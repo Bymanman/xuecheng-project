@@ -1,0 +1,6 @@
+2023-05-10 17:28:10,809 DEBUG [main][Logger.java:49] - Creating a new SqlSession
+2023-05-10 17:28:10,784 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@13fed1ec, started on Wed May 10 15:46:14 CST 2023, parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@486bc9a4
+2023-05-10 17:28:10,784 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@13fed1ec, started on Wed May 10 15:46:14 CST 2023, parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@486bc9a4
+2023-05-10 17:28:10,809 DEBUG [main][Logger.java:49] - Creating a new SqlSession
+2023-05-10 17:28:10,838 DEBUG [main][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@39f0c343] was not registered for synchronization because synchronization is not active
+2023-05-10 17:28:10,838 DEBUG [main][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@39f0c343] was not registered for synchronization because synchronization is not active
